@@ -1,0 +1,32 @@
+#cal_section {
+    width: 40%;
+    height: auto; 
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3); /* Sombra más sutil */
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    padding: 20px;
+    gap: 20px;
+    margin: auto;
+    white-space: normal; 
+}
+
+
+#title {
+    font-size: 24px;
+    color: #6aab8a;
+    margin-bottom: 20px;
+    text-align: center;
+    font-weight: 600;
+}
+
+
+#student {
+    display: flex;
+    flex-direction: column;
+    gap: 20px; 
+    width: 20%; 
+}
